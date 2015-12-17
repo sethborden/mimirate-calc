@@ -1,0 +1,14 @@
+{
+  "name": "transactions",
+  "version": "1.0.0",
+  "description": "The behind-the-scenes calculator object that handles all the calculations for Mimirate's cashflow calculator.",
+  "main": "transaction-collection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mimirate, LLC",
+  "license": "MIT",
+  "devDependencies": {
+    "moment": "^2.10.6"
+  }
+}
